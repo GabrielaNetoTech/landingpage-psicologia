@@ -6,7 +6,6 @@ Este é um projeto de landing page desenvolvido para a **Psicóloga Gabriela Net
 
 - HTML;
 - CSS;
-- JavaScript (para responsividade).
 
 ## Funcionalidades
 
