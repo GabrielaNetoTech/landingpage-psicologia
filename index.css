@@ -532,6 +532,7 @@ footer {
 
   header #logo {
    width: auto;
+   height: auto;
   }
 
   .principal-container {
@@ -756,7 +757,6 @@ footer {
   }
 }
 
-/* Media queries para telas grandes */
 @media (min-width: 1200px) {
   header {
     padding: 0.5rem 4rem;
